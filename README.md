@@ -6,7 +6,7 @@
 
 ### Hardware
 - Citizen Watt sensors
-- Pine64+ board with arduino to communicate with CW sensors
+- Pine64+ board with arduino to communicate with Citizen Watt sensors
 - Arduino with relay shield
 - Light bulb 
 
@@ -29,7 +29,6 @@ The tag for DAISEE sources is **v0.1-beta** (pre-release).
 
 ### Documentation
 https://github.com/DAISEE/UrbanEntrepreneurs/wiki (in french)  
-
 
 ## Version 0.2 
 
