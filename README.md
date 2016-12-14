@@ -1,7 +1,7 @@
 # DzPrototype
   
-   
-## Version 0.1 :  
+## Version 0.1
+
 ![schema prototype](https://hackpad-attachments.imgix.net/hackpad.com_d55JBV5B1Vy_p.602889_1472755256932_14215184_10154001154263915_845143439_o.jpg)
 
 ### Hardware
@@ -31,5 +31,6 @@ The tag for DAISEE sources is **v0.1-beta** (pre-release).
 https://github.com/DAISEE/UrbanEntrepreneurs/wiki (in french)  
 
 
-## Version 0.2 :  
-(in progress)  
+## Version 0.2 
+
+In progress :)
