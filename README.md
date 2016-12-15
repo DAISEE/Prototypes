@@ -6,7 +6,7 @@
 
 ### Hardware
 - Citizen Watt sensors
-- Pine64+ board with arduino to communicate with Citizen Watt sensors
+- Pine64+ boards with arduino to communicate with Citizen Watt sensors
 - Arduino with relay shield
 - Light bulb 
 
@@ -33,3 +33,9 @@ https://github.com/DAISEE/UrbanEntrepreneurs/wiki (in french)
 ## Version 0.2 
 
 In progress :)
+
+TO DO 
+[ ] Back to Raspberry Pi 3
+[ ] Use of Parity insted of geth
+[ ] Define a new algorithm for energy exchanges (management of pseudo real time)
+[ ] Modify the data storage
