@@ -36,6 +36,6 @@ In progress :)
   
 TO DO   
 - [ ] Back to Raspberry Pi 3  
-- [ ] Use of Parity insted of geth  
+- [ ] Use of Parity instead of geth  
 - [ ] Define a new algorithm for energy exchanges (management of pseudo real time)  
 - [ ] Modify the data storage  
