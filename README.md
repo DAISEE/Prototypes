@@ -33,9 +33,9 @@ https://github.com/DAISEE/UrbanEntrepreneurs/wiki (in french)
 ## Version 0.2 
 
 In progress :)
-
-TO DO 
-[ ] Back to Raspberry Pi 3
-[ ] Use of Parity insted of geth
-[ ] Define a new algorithm for energy exchanges (management of pseudo real time)
-[ ] Modify the data storage
+  
+TO DO   
+- [ ] Back to Raspberry Pi 3  
+- [ ] Use of Parity insted of geth  
+- [ ] Define a new algorithm for energy exchanges (management of pseudo real time)  
+- [ ] Modify the data storage  
