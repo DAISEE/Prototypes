@@ -1,4 +1,4 @@
-# DzPrototype
+# Prototype
   
 ## Version 0.1
 
