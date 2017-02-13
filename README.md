@@ -2,9 +2,7 @@
 
 ![schema prototype](https://hackpad-attachments.imgix.net/hackpad.com_d55JBV5B1Vy_p.602889_1472755256932_14215184_10154001154263915_845143439_o.jpg)
 
-See [HERE](https://github.com/DAISEE/UrbanEntrepreneurs/wiki) all the instructions to rebuild (and/or remix) the prototype.
-
-Detail Documentation (in French for the moment) (in FR)  
+See [HERE](https://github.com/DAISEE/UrbanEntrepreneurs/wiki) all the instructions to rebuild (and/or remix) the prototype. The english version is coming as soon as possible! 
 
 ## Hardware
 - Citizen Watt sensors
