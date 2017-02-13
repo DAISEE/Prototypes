@@ -31,5 +31,5 @@ The tag for DAISEE sources is **v0.1-beta** (pre-release).
   
 - [x] Back to Raspberry Pi 3 board (#1)  
 - [x] Use of Parity instead of geth (#2)  
-- [ ] New algorithm for energy exchanges (#3)  
+- [ ] New algo for energy exchanges (#3)  
 - [ ] Modify the data storage (#4)  
