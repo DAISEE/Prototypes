@@ -1,16 +1,14 @@
-# Prototype
-  
-## Version 0.1
+# Version 0.1
 
 ![schema prototype](https://hackpad-attachments.imgix.net/hackpad.com_d55JBV5B1Vy_p.602889_1472755256932_14215184_10154001154263915_845143439_o.jpg)
 
-### Hardware
+## Hardware
 - Citizen Watt sensors
 - Pine64+ boards with arduino to communicate with Citizen Watt sensors
 - Arduino with relay shield
 - Light bulb 
 
-### Software
+## Software
 - CitizenWatt part
     - Sensor sketch  
 https://github.com/CitoyensCapteurs/CitizenWatt-sensor  
@@ -27,10 +25,10 @@ https://github.com/DAISEE/DzScripts
 
 The tag for DAISEE sources is **v0.1-beta** (pre-release).  
 
-### Documentation
-https://github.com/DAISEE/UrbanEntrepreneurs/wiki (in french)  
+## Documentation
+https://github.com/DAISEE/UrbanEntrepreneurs/wiki (in FR)  
 
-## Version 0.2 
+# Version 0.2 
 
 In progress :)
   
