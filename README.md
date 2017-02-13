@@ -7,7 +7,7 @@ See [HERE](https://github.com/DAISEE/UrbanEntrepreneurs/wiki) all the instructio
 ## Hardware
 - Citizen Watt sensors
 - Pine64+ boards + Arduino
-- Arduino with relay shield
+- Arduino + Relay shield
 - Light bulbs
 
 ## Software
@@ -29,7 +29,6 @@ The tag for DAISEE sources is **v0.1-beta** (pre-release).
 
 # Prototype v0.2
   
-TO DO   
 - [x] Back to Raspberry Pi 3 board (#1)  
 - [x] Use of Parity instead of geth (#2)  
 - [ ] New algorithm for energy exchanges (#3)  
