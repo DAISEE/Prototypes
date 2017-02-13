@@ -1,4 +1,4 @@
-# Prototype v 0.1
+# Prototype v0.1
 
 ![schema prototype](https://hackpad-attachments.imgix.net/hackpad.com_d55JBV5B1Vy_p.602889_1472755256932_14215184_10154001154263915_845143439_o.jpg)
 
@@ -28,12 +28,10 @@ The tag for DAISEE sources is **v0.1-beta** (pre-release).
 ## Documentation
 https://github.com/DAISEE/UrbanEntrepreneurs/wiki (in FR)  
 
-# Version 0.2 
-
-In progress :)
+# Prototype v0.2
   
 TO DO   
-- [ ] Back to Raspberry Pi 3 ( #1 )  
-- [ ] Use of Parity instead of geth ( #2 )  
-- [ ] Define a new algorithm for energy exchanges (management of pseudo real time) ( #3 )  
+- [x] Back to Raspberry Pi 3 board ( #1 )  
+- [x] Use of Parity instead of geth ( #2 )  
+- [ ] New algorithm for energy exchanges ( #3 )  
 - [ ] Modify the data storage ( #4 )  
