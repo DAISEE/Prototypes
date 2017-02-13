@@ -2,7 +2,9 @@
 
 ![schema prototype](https://hackpad-attachments.imgix.net/hackpad.com_d55JBV5B1Vy_p.602889_1472755256932_14215184_10154001154263915_845143439_o.jpg)
 
-See [HERE](https://github.com/DAISEE/UrbanEntrepreneurs/wiki) all the instructions to rebuild (and/or remix) the prototype. The english version is coming as soon as possible! 
+See [HERE](https://github.com/DAISEE/UrbanEntrepreneurs/wiki) all the instructions (in French, English ASAP) to rebuild (and/or remix) the prototype. The tag for DAISEE sources is **v0.1-beta** (pre-release). 
+
+The english version is coming as soon as possible! 
 
 ## Hardware
 - Citizen Watt sensors
@@ -11,21 +13,17 @@ See [HERE](https://github.com/DAISEE/UrbanEntrepreneurs/wiki) all the instructio
 - Light bulbs
 
 ## Software
-- CitizenWatt part
-    - Sensor sketch  
-https://github.com/CitoyensCapteurs/CitizenWatt-sensor  
-    - CitizenWatt application (PINE64+ and arduino)  
-https://github.com/DAISEE/CitizenWatt-Base-PINE64  
-https://github.com/DAISEE/CitizenWatt-ArduinoBase   
-- Ethereum part  
-    - geth  
-    https://github.com/ethereum/go-ethereum  
-    - decentraliased application  
-    https://github.com/DAISEE/DzApp  
-- Connections between CitizenWatt and the DApp  
-https://github.com/DAISEE/DzScripts  
+- CitizenWatt 
+    - [Sensor sketch](https://github.com/CitoyensCapteurs/CitizenWatt-sensor)
+    - Application
+        - [PINE64](https://github.com/DAISEE/CitizenWatt-Base-PINE64)  
+        - [Arduino](https://github.com/DAISEE/CitizenWatt-ArduinoBase)
 
-The tag for DAISEE sources is **v0.1-beta** (pre-release).  
+- Ethereum   
+    - [geth](https://github.com/ethereum/go-ethereum)
+    - [Dapp](https://github.com/DAISEE/DzApp)
+   
+- [Connection](https://github.com/DAISEE/DzScripts)
 
 # Prototype v0.2
   
