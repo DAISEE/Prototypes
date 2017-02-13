@@ -1,12 +1,12 @@
-# Version 0.1
+# Prototype v 0.1
 
 ![schema prototype](https://hackpad-attachments.imgix.net/hackpad.com_d55JBV5B1Vy_p.602889_1472755256932_14215184_10154001154263915_845143439_o.jpg)
 
 ## Hardware
 - Citizen Watt sensors
-- Pine64+ boards with arduino to communicate with Citizen Watt sensors
+- Pine64+ boards + Arduino
 - Arduino with relay shield
-- Light bulb 
+- Light bulbs
 
 ## Software
 - CitizenWatt part
