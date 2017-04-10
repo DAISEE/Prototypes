@@ -19,13 +19,18 @@ See [HERE](https://github.com/DAISEE/UrbanEntrepreneurs/wiki)  the instructions 
 
 - Ethereum   
     - [geth](https://github.com/ethereum/go-ethereum)
-    - [Dapp](https://github.com/DAISEE/DzApp)
+    - [Dapp](https://github.com/DAISEE/DApp)
    
 - [Connection](https://github.com/DAISEE/DzScripts)
 
 # Prototype v0.2
   
-- [x] Back to Raspberry Pi 3 board (#1)  
-- [x] Use of Parity instead of geth (#2)  
-- [ ] New algo for energy exchanges (#3)  
-- [ ] Modify the data storage (#4)  
+## Hardware
+- Single computer boards
+    - [x] Back to Raspberry Pi 3 board (#1)  
+## Software
+- Ethereum  
+    - [x] Use of Parity instead of geth (#2)  
+    - [ ] New algo for energy exchanges (#3)  
+    - [ ] Modify the data storage (#4)  
+    - [ ] Energy data display (#5)
