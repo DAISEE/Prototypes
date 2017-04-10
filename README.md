@@ -31,7 +31,7 @@ See [HERE](https://github.com/DAISEE/UrbanEntrepreneurs/wiki)  the instructions 
 ## Software
 - Ethereum  
     - [x] Use of Parity instead of geth (#2) 
-        - [ ] Implementation of 'Proof of Authority' (#6)
+        - [x] Implementation of 'Proof of Authority' (#6)
     - [ ] New algo for energy exchanges (#3)  
     - [ ] Modify the data storage (#4)  
     - [ ] Energy data display (#5)
