@@ -30,7 +30,8 @@ See [HERE](https://github.com/DAISEE/UrbanEntrepreneurs/wiki)  the instructions 
     - [x] Back to Raspberry Pi 3 board (#1)  
 ## Software
 - Ethereum  
-    - [x] Use of Parity instead of geth (#2)  
+    - [x] Use of Parity instead of geth (#2) 
+        - [ ] Implementation of 'Proof of Authority' (#6)
     - [ ] New algo for energy exchanges (#3)  
     - [ ] Modify the data storage (#4)  
     - [ ] Energy data display (#5)
