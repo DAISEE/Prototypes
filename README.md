@@ -42,5 +42,5 @@ A new repo has been created for this new version : [DAISEE/DApp-v2](https://gith
         - [x] Implementation of 'Proof of Authority' ([#6](https://github.com/DAISEE/Prototypes/issues/6))
     - [ ] New algo for energy exchanges ([#3](https://github.com/DAISEE/Prototypes/issues/3))  
     - [ ] Modify the data storage ([#4](https://github.com/DAISEE/Prototypes/issues/4))
-    - [ ] Energy data display ([#5](https://github.com/DAISEE/Prototypes/issues/5))
+    - [ ] Energy data display ([#5](https://github.com/DAISEE/Prototypes/issues/5), partially done)
     - [x] Use of a specific token ([DAISEE/DApp-v2#4](https://github.com/DAISEE/DApp-v2/issues/4))
