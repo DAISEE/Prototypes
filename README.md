@@ -31,11 +31,15 @@ See [HERE](https://github.com/DAISEE/UrbanEntrepreneurs/wiki) the instructions (
   
 ## Prototype v0.2
 
-Changes from version 0.1 :
-### Hardware
+### Documentation
+- [DAISEE/Prototypes/wiki](https://github.com/DAISEE/Prototypes/wiki)  
+
+### Changes from version 0.1
+#### Hardware
 - Single computer boards
     - [x] Back to Raspberry Pi 3 board ([#1](https://github.com/DAISEE/Prototypes/issues/1))  
-### Software
+- Current sensors
+#### Software
 - Ethereum  
 A new repo has been created for this new version : [DAISEE/DApp-v2](https://github.com/DAISEE/DApp-v2)
     - [x] Use of Parity instead of geth ([#2](https://github.com/DAISEE/Prototypes/issues/2)) 
