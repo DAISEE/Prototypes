@@ -38,7 +38,7 @@ See [HERE](https://github.com/DAISEE/UrbanEntrepreneurs/wiki) the instructions (
 #### Hardware
 - Single computer boards
     - [x] Back to Raspberry Pi 3 board ([#1](https://github.com/DAISEE/Prototypes/issues/1))  
-- Current sensors
+- Current sensors (work in progress)
 #### Software
 - Ethereum  
 A new repo has been created for this new version : [DAISEE/DApp-v2](https://github.com/DAISEE/DApp-v2)
