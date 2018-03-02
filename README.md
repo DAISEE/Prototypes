@@ -1,6 +1,4 @@
 # Prototypes
-
-This repository describes the different parts and versions of DAISEE prototype  
  
 ## Prototype v0.1
 
