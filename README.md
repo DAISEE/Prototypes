@@ -1,10 +1,7 @@
 # Prototypes
 
 This repository describes the different parts and versions of DAISEE prototype  
-  
-![schema prototype](https://hackpad-attachments.imgix.net/hackpad.com_d55JBV5B1Vy_p.602889_1472755256932_14215184_10154001154263915_845143439_o.jpg)
-
-
+ 
 ## Prototype v0.1
 
 See [HERE](https://github.com/DAISEE/UrbanEntrepreneurs/wiki) the instructions (in FR, EN ASAP) to rebuild the prototype. Tag for sources is **v0.1-beta** (pre-release). 
